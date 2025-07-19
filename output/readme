@@ -1,0 +1,9 @@
+---- 2:1 MUX STRUCTURAL TEST ----
+S=0 A=0 B=1 | Y=0
+S=1 A=0 B=1 | Y=1
+
+---- 4:1 MUX STRUCTURAL TEST ----
+S4=00 D=1010 | Y=0
+S4=01 D=1010 | Y=1
+S4=10 D=1010 | Y=0
+S4=11 D=1010 | Y=1
